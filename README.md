@@ -1,4 +1,7 @@
-## Hi there 👋
+## Greetings
+
+My name is Adam and I am a computer science student who is passionate about software development. 
+Explore my public repos to see all of my projects!
 
 <!--
 **AdamLaurin/AdamLaurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
